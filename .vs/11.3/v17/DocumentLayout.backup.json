@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fisto\\source\\repos\\11.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2CD768-2057-447D-9698-BAF49182365D}|..\\UnitTest6\\UnitTest6.vcxproj|C:\\Users\\fisto\\source\\repos\\UnitTest6\\UnitTest6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F1A21B-BE3B-46BF-8E79-C56985E85882}|11.3.vcxproj|C:\\Users\\fisto\\source\\repos\\11.3\\lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F1A21B-BE3B-46BF-8E79-C56985E85882}|11.3.vcxproj|solutionrelative:lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest6.cpp",
+              "DocumentMoniker": "C:\\Users\\fisto\\source\\repos\\UnitTest6\\UnitTest6.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest6\\UnitTest6.cpp",
+              "ToolTip": "C:\\Users\\fisto\\source\\repos\\UnitTest6\\UnitTest6.cpp",
+              "RelativeToolTip": "..\\UnitTest6\\UnitTest6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T14:27:45.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab.cpp",
+              "DocumentMoniker": "C:\\Users\\fisto\\source\\repos\\11.3\\lab.cpp",
+              "RelativeDocumentMoniker": "lab.cpp",
+              "ToolTip": "C:\\Users\\fisto\\source\\repos\\11.3\\lab.cpp",
+              "RelativeToolTip": "lab.cpp",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAiwK0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T14:26:49.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
